@@ -6,7 +6,7 @@ void PrintIntroduction(int Difficulty){
     // Printing welcome message to the terminal
     cout << endl;
     cout << "Hello there, fellow spy. Breaking and entering the level " << Difficulty << " " <<"server room? It won't be that easy!" << endl;
-    cout << "One must solve and enter the correct codes to continue. This is the only was forward...or you can turn back anytime, hehehehe." << endl;
+    cout << "You must solve and enter the correct codes to continue. This is the only was forward...or in your case it could be backwards, hehehehe." << endl;
 }
 
 
